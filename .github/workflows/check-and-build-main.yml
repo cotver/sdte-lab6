@@ -31,5 +31,5 @@ jobs:
         with:
           context: .
           file: ./Dockerfile
-          tags: "cotver/sdte-lab6:latest"
+          tags: "cotver/sdte-lab6:lates"
           push: true
